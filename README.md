@@ -124,3 +124,8 @@ Businesses can reduce excess inventory, control transportation costs, and stream
 # Performance Improvement
 
 Improved forecasting, better warehouse planning, and reduced delays in order fulfillment.
+
+# Dashboard Preview
+
+<img width="1370" height="772" alt="Screenshot 2025-11-28 195704" src="https://github.com/user-attachments/assets/e09013b2-4a02-415f-85d2-25bc5842b4ae" />
+
